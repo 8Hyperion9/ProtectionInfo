@@ -23,7 +23,7 @@
 — С удовольствием отдаю ее вам, — сказал Наполеон. — Кто этот молодой человек подле вас?
 Князь Репнин назвал поручика Сухтелена.
 ```
-### Зашифрованный текст
+### Зашифрованный текст пример 1
 ```
 Фчkсh Кчоъпу щшчkх, cьш iьш лgхш ыфкскчш ш чпц т cьш ншмшъть iьш Чкщшхпшч. Шч ыхgdкх, фкф чксgмкхт sire[5] ьшнш, фьш ыфкскх iьт ыхшмк. Чш шч ыхgdкх iьт ыхшмк, фкф лg шч ыхgdкх рэрркчтп цэят. Шч чп ьшхhфш чп тчьпъпышмкхыk тцт, чш шч т чп скцпьтх, к ьшьcкы рп склgх тя. Пцэ рнхш ншхшмэ; шч cэмыьмшмкх, cьш шч тыяшоть фъшмhj, т шч мтопх чко ышлшj окхпфшп, мgышфшп т мпcчшп чплш. Шч счкх, cьш iьш лgх Чкщшхпшч — пнш нпъшу, чш м iьэ цтчэьэ Чкщшхпшч фкскхыk пцэ ыьшхh цкхпчhфтц, чтcьшрчgц cпхшмпфшц м ыъкмчпчтт ы ьпц, cьш щъштыяшотхш ьпщпъh цпроэ пнш оэdшу т iьтц мgышфтц, лпыфшчпcчgц чплшц ы лпнэeтцт щш чпц шлхкфкцт. Пцэ лgхш ышмпъdпччш мып ъкмчш м iьэ цтчэьэ, фьш лg чт ыьшkх чко чтц, cьш лg чт ншмшътх ш чпц; шч ъко лgх ьшхhфш ьшцэ, cьш шыькчшмтхтыh чко чтц хjот, т рпхкх ьшхhфш, cьшл iьт хjот щшцшнхт пцэ т мшсмъкьтхт лg пнш ф ртсчт, фшьшъкk фкскхкыh пцэ ыьшхh щъпфъкычшj, щшьшцэ cьш шч ькф тчкcп щшчтцкх пп ьпщпъh. Шч ышлъкх мып ымшт ытхg, cьшлg щшdпмпхтьhыk т щъштсмпыьт фкфшу-чтлэоh смэф. Шч ыхклш щшdпмпхтх чшншj т щъштсмпх ыкцшнш пнш ъксркхшлтмdту, ыхклgу, лшхпсчпччgу ыьшч.
 — К! шч ртм, — ыфкскх Чкщшхпшч. — Щшочkьh iьшнш цшхшошнш cпхшмпфк, ce jeune homme, т ычпыьт чк щпъпмkсшcчgу щэчфь!
@@ -44,6 +44,29 @@
 — Ы эошмшхhыьмтпц шьокj пп мкц, — ыфкскх Чкщшхпшч. — Фьш iьшь цшхшошу cпхшмпф щшохп мкы?
 Фчkсh Ъпщчтч чксмкх щшъэcтфк Ыэяьпхпчк.
 ```
+### Зашифрованный текст пример 1
+
+```
+Юcuыr Фcшfщэ edcuя, mhd shd хqяd gюфыфcd d cщb ь mhd чdцdfьh shd Вфedящdc. Гc gяqnфя, юфю cфыqцфяь sire[5] hdчd, юhd gюфыфя shь gяdцф. Вd dc gяqnфя shь gяdцф, юфю хq dc gяqnфя ъiъъфcьщ bikь. Гc cщ hdяrюd cщ ьchщfщgdцфяgu ьbь, cd dc ь cщ ыфbщhья, ф hdhmфg ъщ ыфхqя ьk. Щbi ъчяd чdяdцi; dc miцghцdцфя, mhd dc ьgkdшьh юfdцrt, ь dc цьшщя cфш gdхdt шфящюdщ, цqgdюdщ ь цщmcdщ cщхd. Гc ыcфя, mhd shd хqя Вфedящdc — щчd чщfdэ, cd ц shi bьcihi Вфedящdc юфыфяgu щbi ghdяr bфящcrюьb, cьmhdъcqb mщяdцщюdb ц gfфцcщcьь g hщb, mhd efdьgkdшьяd hщeщfr bщъшi щчd шindэ ь shьb цqgdюьb, хщgюdcщmcqb cщхdb g хщчioьbь ed cщb dхяфюфbь. Щbi хqяd gdцщfnщccd цgщ fфцcd ц shi bьcihi, юhd хq cь ghduя cфш cьb, mhd хq cь чdцdfья d cщb; dc fфш хqя hdяrюd hdbi, mhd dghфcdцьяьgr cфш cьb яtшь, ь ъщяфя hdяrюd, mhdх shь яtшь edbdчяь щbi ь цdыцfфhьяь хq щчd ю ъьыcь, юdhdfфu юфыфяфgr щbi ghdяr efщюfфgcdt, edhdbi mhd dc hфю ьcфmщ edcьbфя щщ hщeщfr. Гc gdхfфя цgщ gцdь gьяq, mhdхq ednщцщяьhrgu ь efdьыцщghь юфюdэ-cьхiшr ыцiю. Гc gяфхd ednщцщяья cdчdt ь efdьыцщя gфbdчd щчd fфыъфяdхьцnьэ, gяфхqэ, хdящыcщccqэ ghdc.
+— Ф! dc ъьц, — gюфыфя Вфedящdc. — Дdшcuhr shdчd bdяdшdчd mщяdцщюф, ce jeune homme, ь gcщghь cф eщfщцuыdmcqэ eicюh!
+Жюфыфц shd, Вфedящdc edщkфя шфяrnщ cфцghfщmi ю bфfnфяi Яфcci, юdhdfqэ, gcuц nяuei, iяqхфugr ь edышfфцяuu g edхщшdэ, edшpщыъфя ю ьbeщfфhdfi.
+Юcuыr Фcшfщэ cщ edbcья cьmщчd шфяrnщ: dc edhщfuя gdыcфcьщ dh ghfфncdэ хdяь, юdhdfit efьmьcьяь щbi iюяфшqцфcьщ cф cdgьяюь, hdяmюь цd цfщbu шцьъщcьu ь gфcьfdцфcьщ fфcq cф eщfщцuыdmcdb eicюhщ. Гc dmciяgu iъщ hdяrюd ц юdclщ шcu, юdчшф щчd, gdщшьcьц g шfiчьbь figgюьbь fфcщcqbь ь eящccqbь djьlщfфbь, edcщgяь ц чdgeьhфяr. Вф shdb eщfщшцьъщcьь dc miцghцdцфя gщхu cщgюdяrюd gцщъщщ ь bdч dчяuшqцфhrgu ь шфъщ чdцdfьhr.
+Дщfцqщ gяdцф, юdhdfqщ dc igяqkфя, юdчшф dmciяgu, — хqяь gяdцф jfфcliыgюdчd юdcцdэcdчd djьlщfф, юdhdfqэ edgeщncd чdцdfья:
+— Вфшd ышщgr dghфcdцьhrgu: ьbeщfфhdf gщэmфg efdщшщh; щbi шdghфцьh iшdцdяrghцьщ цьшщhr shьk eящccqk чdgedш.
+— Вqcmщ hфю bcdчd eящccqk, mihr cщ цgu figgюфu фfbьu, mhd щbi, цщfduhcd, shd cфgюimьяd, — gюфыфя шfiчdэ djьlщf.
+— Вi, dшcфюd! Тhdh, чdцdfuh, юdbфcшьf цgщэ чцфfшьь ьbeщfфhdfф Фящюgфcшfф, — gюфыфя eщfцqэ, iюфыqцфu cф fфcщcdчd figgюdчd djьlщfф ц хщяdb юфцфящfчфfшgюdb bicшьfщ.
+Хdяюdcgюьэ iыcфя юcuыu Ещecьcф, юdhdfdчd dc цghfщmфя ц eщhщfхifчgюdb gцщhщ. Еuшdb g cьb ghduя шfiчdэ, шщцuhcфшlфhьящhcьэ bфяrmью, hdъщ fфcщcqэ юфцфящfчфfшgюьэ djьlщf.
+Хdcфeфfhщ, edшpщkфц чфяdedb, dghфcdцья яdnфшr.
+— Юhd ghфfnьэ? — gюфыфя dc, iцьшфц eящccqk.
+Вфыцфяь edяюdцcьюф, юcuыu Ещecьcф.
+— Цq юdbфcшьf юфцфящfчфfшgюdчd edяюф ьbeщfфhdfф Фящюgфcшfф? — gefdgья Вфedящdc.
+— Ф юdbфcшdцфя sgюфшfdcdb, — dhцщmфя Ещecьc.
+— Цфn edяю mщghcd ьgedяcья шdяч gцdэ, — gюфыфя Вфedящdc.
+— Дdkцфяф цщяьюdчd edяюdцdшlф щghr яimnфu cфчfфшф gdяшфhi, — gюфыфя Ещecьc.
+— Ж iшdцdяrghцьщb dhшфt щщ цфb, — gюфыфя Вфedящdc. — Юhd shdh bdяdшdэ mщяdцщю edшящ цфg?
+Юcuыr Ещecьc cфыцфя edfimьюф Жikhщящcф.
+```
+
 ## Лабораторная 2 : Протокол Деффи-Хельмана
 
 ```
