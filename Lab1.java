@@ -2,13 +2,18 @@ package com.company;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
 
 public class Lab1
 {
     private int step;
 
+    private final ArrayList<Row> rowArray;
+
     public Lab1()
     {
+        rowArray = new ArrayList();
+
         step = (int) (5 + Math.random() * 69);
         step %= 33;
 
@@ -31,6 +36,8 @@ public class Lab1
             s.append(c);
         }
 
+
+        analyze(s.toString());
         writeFile(s.toString());
     }
 
@@ -76,4 +83,58 @@ public class Lab1
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("./src/com/company/write.txt"))) { writer.write(output); }
         catch (IOException e) { System.err.println(e.getMessage());}
     }
+
+
+
+    private void analyze(String output)
+    {
+        char character;
+        for(int i = 0 ; i < output.length() ; i ++)
+        {
+            character = output.charAt(i);
+
+            if(!checkAnalyze(character))
+                rowArray.add(new Row(character));
+
+        }
+
+        printAnalyze();
+    }
+
+    private boolean checkAnalyze(char character)
+    {
+        for (Row row : rowArray)
+            if (row.getCharacter() == character)
+            {
+                row.increaseCharacterCount();
+                return true;
+            }
+
+        return false;
+    }
+
+
+    private void printAnalyze()
+    {
+        for (Row row : rowArray)
+            System.out.println(row.getCharacter() + "  " + row.getCharacterCount());
+    }
+}
+
+
+class Row
+{
+    private char character;
+    private int characterCount;
+
+    Row(char character)
+    {
+        this.character = character;
+        this.characterCount = 0;
+    }
+
+
+    public void increaseCharacterCount() { this.characterCount++; }
+    public char getCharacter() { return character; }
+    public int getCharacterCount() { return characterCount; }
 }
