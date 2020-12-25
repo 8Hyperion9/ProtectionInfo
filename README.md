@@ -44,28 +44,30 @@
 — Ы эошмшхhыьмтпц шьокj пп мкц, — ыфкскх Чкщшхпшч. — Фьш iьшь цшхшошу cпхшмпф щшохп мкы?
 Фчkсh Ъпщчтч чксмкх щшъэcтфк Ыэяьпхпчк.
 ```
-### Зашифрованный текст пример 1
+### Зашифрованный текст пример 2
 
 ```
-Юcuыr Фcшfщэ edcuя, mhd shd хqяd gюфыфcd d cщb ь mhd чdцdfьh shd Вфedящdc. Гc gяqnфя, юфю cфыqцфяь sire[5] hdчd, юhd gюфыфя shь gяdцф. Вd dc gяqnфя shь gяdцф, юфю хq dc gяqnфя ъiъъфcьщ bikь. Гc cщ hdяrюd cщ ьchщfщgdцфяgu ьbь, cd dc ь cщ ыфbщhья, ф hdhmфg ъщ ыфхqя ьk. Щbi ъчяd чdяdцi; dc miцghцdцфя, mhd dc ьgkdшьh юfdцrt, ь dc цьшщя cфш gdхdt шфящюdщ, цqgdюdщ ь цщmcdщ cщхd. Гc ыcфя, mhd shd хqя Вфedящdc — щчd чщfdэ, cd ц shi bьcihi Вфedящdc юфыфяgu щbi ghdяr bфящcrюьb, cьmhdъcqb mщяdцщюdb ц gfфцcщcьь g hщb, mhd efdьgkdшьяd hщeщfr bщъшi щчd шindэ ь shьb цqgdюьb, хщgюdcщmcqb cщхdb g хщчioьbь ed cщb dхяфюфbь. Щbi хqяd gdцщfnщccd цgщ fфцcd ц shi bьcihi, юhd хq cь ghduя cфш cьb, mhd хq cь чdцdfья d cщb; dc fфш хqя hdяrюd hdbi, mhd dghфcdцьяьgr cфш cьb яtшь, ь ъщяфя hdяrюd, mhdх shь яtшь edbdчяь щbi ь цdыцfфhьяь хq щчd ю ъьыcь, юdhdfфu юфыфяфgr щbi ghdяr efщюfфgcdt, edhdbi mhd dc hфю ьcфmщ edcьbфя щщ hщeщfr. Гc gdхfфя цgщ gцdь gьяq, mhdхq ednщцщяьhrgu ь efdьыцщghь юфюdэ-cьхiшr ыцiю. Гc gяфхd ednщцщяья cdчdt ь efdьыцщя gфbdчd щчd fфыъфяdхьцnьэ, gяфхqэ, хdящыcщccqэ ghdc.
-— Ф! dc ъьц, — gюфыфя Вфedящdc. — Дdшcuhr shdчd bdяdшdчd mщяdцщюф, ce jeune homme, ь gcщghь cф eщfщцuыdmcqэ eicюh!
-Жюфыфц shd, Вфedящdc edщkфя шфяrnщ cфцghfщmi ю bфfnфяi Яфcci, юdhdfqэ, gcuц nяuei, iяqхфugr ь edышfфцяuu g edхщшdэ, edшpщыъфя ю ьbeщfфhdfi.
-Юcuыr Фcшfщэ cщ edbcья cьmщчd шфяrnщ: dc edhщfuя gdыcфcьщ dh ghfфncdэ хdяь, юdhdfit efьmьcьяь щbi iюяфшqцфcьщ cф cdgьяюь, hdяmюь цd цfщbu шцьъщcьu ь gфcьfdцфcьщ fфcq cф eщfщцuыdmcdb eicюhщ. Гc dmciяgu iъщ hdяrюd ц юdclщ шcu, юdчшф щчd, gdщшьcьц g шfiчьbь figgюьbь fфcщcqbь ь eящccqbь djьlщfфbь, edcщgяь ц чdgeьhфяr. Вф shdb eщfщшцьъщcьь dc miцghцdцфя gщхu cщgюdяrюd gцщъщщ ь bdч dчяuшqцфhrgu ь шфъщ чdцdfьhr.
-Дщfцqщ gяdцф, юdhdfqщ dc igяqkфя, юdчшф dmciяgu, — хqяь gяdцф jfфcliыgюdчd юdcцdэcdчd djьlщfф, юdhdfqэ edgeщncd чdцdfья:
-— Вфшd ышщgr dghфcdцьhrgu: ьbeщfфhdf gщэmфg efdщшщh; щbi шdghфцьh iшdцdяrghцьщ цьшщhr shьk eящccqk чdgedш.
-— Вqcmщ hфю bcdчd eящccqk, mihr cщ цgu figgюфu фfbьu, mhd щbi, цщfduhcd, shd cфgюimьяd, — gюфыфя шfiчdэ djьlщf.
-— Вi, dшcфюd! Тhdh, чdцdfuh, юdbфcшьf цgщэ чцфfшьь ьbeщfфhdfф Фящюgфcшfф, — gюфыфя eщfцqэ, iюфыqцфu cф fфcщcdчd figgюdчd djьlщfф ц хщяdb юфцфящfчфfшgюdb bicшьfщ.
-Хdяюdcgюьэ iыcфя юcuыu Ещecьcф, юdhdfdчd dc цghfщmфя ц eщhщfхifчgюdb gцщhщ. Еuшdb g cьb ghduя шfiчdэ, шщцuhcфшlфhьящhcьэ bфяrmью, hdъщ fфcщcqэ юфцфящfчфfшgюьэ djьlщf.
-Хdcфeфfhщ, edшpщkфц чфяdedb, dghфcdцья яdnфшr.
-— Юhd ghфfnьэ? — gюфыфя dc, iцьшфц eящccqk.
-Вфыцфяь edяюdцcьюф, юcuыu Ещecьcф.
-— Цq юdbфcшьf юфцфящfчфfшgюdчd edяюф ьbeщfфhdfф Фящюgфcшfф? — gefdgья Вфedящdc.
-— Ф юdbфcшdцфя sgюфшfdcdb, — dhцщmфя Ещecьc.
-— Цфn edяю mщghcd ьgedяcья шdяч gцdэ, — gюфыфя Вфedящdc.
-— Дdkцфяф цщяьюdчd edяюdцdшlф щghr яimnфu cфчfфшф gdяшфhi, — gюфыфя Ещecьc.
-— Ж iшdцdяrghцьщb dhшфt щщ цфb, — gюфыфя Вфedящdc. — Юhd shdh bdяdшdэ mщяdцщю edшящ цфg?
-Юcuыr Ещecьc cфыцфя edfimьюф Жikhщящcф.
+Иl~f{ Эlcodh nml~j, vqm |qm юzjm piэfэlm m ldk g vqm bmяmogq |qm Лэnmjdml. Мl pjzwэj, iэi lэfzяэjg sire[5] qmbm, iqm piэfэj |qg pjmяэ. Лm ml pjzwэj |qg pjmяэ, iэi юz ml pjzwэj ereeэlgd krtg. Мl ld qmj{im ld glqdodpmяэjp~ gkg, lm ml g ld fэkdqgj, э qmqvэp ed fэюzj gt. Гkr ebjm bmjmяr; ml vrяpqяmяэj, vqm ml gptmcgq iomя{}, g ml яgcdj lэc pmюm} cэjdimd, яzpmimd g яdvlmd ldюm. Мl flэj, vqm |qm юzj Лэnmjdml — dbm bdomh, lm я |qr kglrqr Лэnmjdml iэfэjp~ dkr pqmj{ kэjdl{igk, lgvqmelzk vdjmяdimk я poэяldlgg p qdk, vqm nomgptmcgjm qdndo{ kdecr dbm crwmh g |qgk яzpmigk, юdpimldvlzk ldюmk p юdbrxgkg nm ldk mюjэiэkg. Гkr юzjm pmяdowdllm яpd oэяlm я |qr kglrqr, iqm юz lg pqm~j lэc lgk, vqm юz lg bmяmogj m ldk; ml oэc юzj qmj{im qmkr, vqm mpqэlmяgjgp{ lэc lgk j}cg, g edjэj qmj{im, vqmю |qg j}cg nmkmbjg dkr g яmfяoэqgjg юz dbm i egflg, imqmoэ~ iэfэjэp{ dkr pqmj{ nodioэplm}, nmqmkr vqm ml qэi glэvd nmlgkэj dd qdndo{. Мl pmюoэj яpd pяmg pgjz, vqmюz nmwdяdjgq{p~ g nomgfяdpqg iэimh-lgюrc{ fяri. Мl pjэюm nmwdяdjgj lmbm} g nomgfяdj pэkmbm dbm oэfeэjmюgяwgh, pjэюzh, юmjdfldllzh pqml.
+— Э! ml egя, — piэfэj Лэnmjdml. — Нmcl~q{ |qmbm kmjmcmbm vdjmяdiэ, ce jeune homme, g pldpqg lэ ndodя~fmvlzh nrliq!
+Пiэfэя |qm, Лэnmjdml nmdtэj cэj{wd lэяpqodvr i kэowэjr Йэllr, imqmozh, pl~я wj~nr, rjzюэ~p{ g nmfcoэяj~~ p nmюdcmh, nmcydfeэj i gkndoэqmor.
+Иl~f{ Эlcodh ld nmklgj lgvdbm cэj{wd: ml nmqdo~j pmflэlgd mq pqoэwlmh юmjg, imqmor} nogvglgjg dkr rijэczяэlgd lэ lmpgjig, qmjvig яm яodk~ cяgedlg~ g pэlgomяэlgd oэlz lэ ndodя~fmvlmk nrliqd. Мl mvlrjp~ red qmj{im я imlud cl~, imbcэ dbm, pmdcglgя p corbgkg orppigkg oэldlzkg g njdllzkg msgudoэkg, nmldpjg я bmpngqэj{. Лэ |qmk ndodcяgedlgg ml vrяpqяmяэj pdю~ ldpimj{im pяdedd g kmb mbj~czяэq{p~ g cэed bmяmogq{.
+Нdoяzd pjmяэ, imqmozd ml rpjztэj, imbcэ mvlrjp~, — юzjg pjmяэ soэlurfpimbm imlяmhlmbm msgudoэ, imqmozh nmpndwlm bmяmogj:
+— Лэcm fcdp{ mpqэlmяgq{p~: gkndoэqmo pdhvэp nomdcdq; dkr cmpqэяgq rcmяmj{pqяgd яgcdq{ |qgt njdllzt bmpnmc.
+— Лzlvd qэi klmbm njdllzt, vrq{ ld яp~ orppiэ~ эokg~, vqm dkr, яdom~qlm, |qm lэpirvgjm, — piэfэj corbmh msgudo.
+— Лr, mclэim! Ыqmq, bmяmo~q, imkэlcgo яpdh bяэocgg gkndoэqmoэ Эjdipэlcoэ, — piэfэj ndoяzh, riэfzяэ~ lэ oэldlmbm orppimbm msgudoэ я юdjmk iэяэjdobэocpimk krlcgod.
+Юmjimlpigh rflэj il~f~ Оdnlglэ, imqmombm ml яpqodvэj я ndqdoюrobpimk pяdqd. О~cmk p lgk pqm~j corbmh, cdя~qlэcuэqgjdqlgh kэj{vgi, qmed oэldlzh iэяэjdobэocpigh msgudo.
+Юmlэnэoqd, nmcydtэя bэjmnmk, mpqэlmяgj jmwэc{.
+— Иqm pqэowgh? — piэfэj ml, rяgcэя njdllzt.
+Лэfяэjg nmjimяlgiэ, il~f~ Оdnlglэ.
+— Яz imkэlcgo iэяэjdobэocpimbm nmjiэ gkndoэqmoэ Эjdipэlcoэ? — pnompgj Лэnmjdml.
+— Э imkэlcmяэj |piэcomlmk, — mqяdvэj Оdnlgl.
+— Яэw nmji vdpqlm gpnmjlgj cmjb pяmh, — piэfэj Лэnmjdml.
+— Нmtяэjэ яdjgimbm nmjimяmcuэ dpq{ jrvwэ~ lэboэcэ pmjcэqr, — piэfэj Оdnlgl.
+— П rcmяmj{pqяgdk mqcэ} dd яэk, — piэfэj Лэnmjdml. — Иqm |qmq kmjmcmh vdjmяdi nmcjd яэp?
+Иl~f{ Оdnlgl lэfяэj nmorvgiэ Пrtqdjdlэ.
 ```
+### Частотный анализ к примеру 2
+
 
 ## Лабораторная 2 : Протокол Деффи-Хельмана
 
