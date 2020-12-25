@@ -67,7 +67,7 @@
 Иl~f{ Оdnlgl lэfяэj nmorvgiэ Пrtqdjdlэ.
 ```
 ### Частотный анализ к примеру 2
-
+![alt text](https://github.com/8Hyperion9/ProtectionInfo/blob/main/analyze.png)
 
 ## Лабораторная 2 : Протокол Деффи-Хельмана
 
